@@ -37,6 +37,7 @@ dependencies:
   device_apps:
   app_settings:
   url_launcher:
+  build_web_compilers:
 
 
 dev_dependencies:
