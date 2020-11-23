@@ -30,7 +30,10 @@ dependencies:
   cupertino_icons:
   flutter_neumorphic:
   flutter_clock_helper:
-    path: ../flutter_clock_helper
+    git:
+      url: git://github.com/flutter/flutter_clock.git
+      path: flutter_clock_helper
+ 
   device_apps:
   app_settings:
   url_launcher:
